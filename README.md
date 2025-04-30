@@ -23,7 +23,7 @@ Currently crafting some spicy full-stack projects, learning new tricks, and prob
 ---
 
 ### 📫 Let's connect!
-- 🌍 [vapiro.pages.dev](https://vapiro.dev) — *Coming soon... maybe.*
+- 🌍 [vapiro.pages.dev](https://vapiro.pages.dev) — *Best Portfolio maybe...*
 - 💬 Hit me up in discussions, PRs, or random issues.
 
 ---
